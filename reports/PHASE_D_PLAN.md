@@ -1,6 +1,19 @@
 # Phase D Plan — Coherence & Environment Art (for planning review)
 
-**Status:** PROPOSED — awaiting planning-agent review + Phil approval. No batch has started.
+**Status:** APPROVED 2026-07-14 (planning review) with the amendments below. Batch D-1 is OPEN.
+
+**Binding amendments from the planning review:**
+1. A10 room-count formula: APPROVED for inclusion in Batch D-1.
+2. Terrain sets (D-2): APPROVED — build as reusable, biome-swappable infrastructure (doubles
+   as the terrain-automation investment for later biomes), not a one-off.
+3. Residue-decal layer (D-4): APPROVED as OPTIONAL, first-to-cut under batch pressure
+   (cut = one log line, no discussion).
+4. D-3 floor timebox: escalation options pre-defined — on a miss, exactly three choices are
+   presented: (a) accept achieved score, reassess at D-FINAL; (b) ONE more bounded pass with a
+   specific named technique from the research; (c) park post-demo. A D-3 escalation does NOT
+   block D-4 starting.
+5. Door-regression gate EXTENDED to D-2 (terrain-set rewiring touches door-adjacent
+   tiles/collision) — before/after, same as D-1/D-5.
 **Date:** 2026-07-14 · **Prepared by:** Claude Code (execution agent)
 **Working spec:** the demo-readiness QA backlog (private repo). Phases A–B closed; C (living
 environment) intentionally sequenced after D per the review decision trail — see Batch notes.
