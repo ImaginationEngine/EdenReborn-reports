@@ -3,7 +3,7 @@
 Sanitized summaries of the private risk-audit modules. Full evidence tables,
 strategy specifics, and draft wording live in the private repo.
 
-## Row: AI disclosure (Module 2 — upgraded 2026-07-16; ratification pending)
+## Row: AI disclosure (Module 2 — upgraded 2026-07-16; **RATIFIED 2026-07-16**)
 
 **Question:** is Steam AI disclosure survivable for a production-quality indie title,
 and what posture does the evidence support?
@@ -31,11 +31,13 @@ and what posture does the evidence support?
   contractual zero-AI policy; one awards body with enforced anti-AI rules. Named
   streamer/festival policies: open follow-up — to be sized, not assumed. **MIXED / GAP**
 
-**Recommendation (pending ratification):** transparent, scoped, matter-of-fact
+**Recommendation (RATIFIED 2026-07-16):** transparent, scoped, matter-of-fact
 disclosure (assets/tooling, human review stated, no runtime generation), placed in the
 Steam disclosure field plus plain page copy; AI is not used as the marketing hook.
 Clean-provenance asset regeneration (separate module) makes every disclosure clause
-verifiable by construction.
+verifiable by construction. Campaign posture marked "defied-expectation as an earned/
+discovered story, not paid positioning." One follow-up carried: named streamer/festival
+AI-policy sizing before go-to-market lock.
 
 **Sources:** PC Gamer (Game Oracle study; Steam Labs figures), Windows Central,
 Tom's Hardware, Sulka Haro's 3-year Steam AI dataset, Engadget (Next Fest share;
