@@ -15,6 +15,16 @@ camera zoom), one per failure class, taken by the same rig before and after.
 
 `before/` holds the same-rig captures of the failing classes for side-by-side.
 
+## Two additional defects found by pre-commit review + fixed in the same batch
+
+| # | Defect | Fix | Evidence |
+|---|---|---|---|
+| 5 | Inactive-door edges (dead ends) would show a 2-cell hole — the baked gap is unconditional but door frames only cover ACTIVE doors | Runtime seal (`BaseRoomLogic._seal_inactive_door_gaps`): fills the gap AND reverts the flanking end-caps to plain runs, so inactive edges read as continuous wall | `after/*_sealed_*.png` (5 captures) |
+| 6 | RoomTiny (odd tile height) E/W door frames sat 32 px below the baked gap — visible hole above the frame | E/W door nodes realigned to the gap center (224→192); N/S unaffected (even width) | `after/RoomTiny_door_W.png` |
+
+Both invariant tests are door-aware: gap cells must be EMPTY where the door is
+active and solid RUN tiles where it is not — so the seal itself is under test.
+
 ## What changed (by construction, not spot-fix)
 
 - Wall terrain set (MATCH_SIDES) completed to **full ring coverage**: every
