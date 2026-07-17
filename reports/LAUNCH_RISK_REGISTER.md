@@ -3,6 +3,13 @@
 Sanitized summaries of the private risk-audit modules. Full evidence tables,
 strategy specifics, and draft wording live in the private repo.
 
+## Row: Feel pass = demo critical path (2026-07-17)
+
+The store hook promises combat *feel* ("built around one promise — how good it feels to
+fight"). Risk: shipping the demo before the feel/combat-juice pass lands would make the
+hook untruthful and miss the locked wow-factor. **Mitigation:** feel pass is formally on
+the demo critical path (build-order #1), not deferrable. Tracked in the production roadmap.
+
 ## Row: AI disclosure (Module 2 — upgraded 2026-07-16; **RATIFIED 2026-07-16**)
 
 **Question:** is Steam AI disclosure survivable for a production-quality indie title,
