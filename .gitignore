@@ -1,0 +1,14 @@
+# EdenReborn-reports (PUBLIC) — defense-in-depth. This repo must NEVER contain
+# secrets or source. Even though reports don't include them, gitignore credentials
+# so an accidental drop can't be committed.
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+*credential*
+*secret*
+*.token
+# Godot import sidecars (screenshots dropped here get auto-imported if opened in-engine)
+*.import
+.gdignore
