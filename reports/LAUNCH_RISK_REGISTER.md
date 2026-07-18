@@ -10,6 +10,16 @@ fight"). Risk: shipping the demo before the feel/combat-juice pass lands would m
 hook untruthful and miss the locked wow-factor. **Mitigation:** feel pass is formally on
 the demo critical path (build-order #1), not deferrable. Tracked in the production roadmap.
 
+## Row: Business formation & legal (tracked privately)
+
+Incorporation timing, tax-credit posture, trademark staging, and the revenue-target definition
+are maintained in the private launch-risk audit and were fiduciary-reviewed 2026-07-18. The
+legal/financial specifics (especially trademark-filing status) are deliberately kept off the
+public repo. One non-sensitive process note that affects art scheduling: the **store-page
+readiness bar is "good enough not to harm," not gallery-perfect** — screenshots iterate on the
+live page post-launch, and later art-polish phases are NOT a page gate (wishlist accrual from
+page-live date outweighs launch-screenshot perfection).
+
 ## Row: AI disclosure (Module 2 — upgraded 2026-07-16; **RATIFIED 2026-07-16**)
 
 **Question:** is Steam AI disclosure survivable for a production-quality indie title,
